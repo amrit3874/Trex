@@ -1,2 +1,3 @@
 # Trex
 trex runner game
+in this game we try to avoid obstacles and score as much as we can...
